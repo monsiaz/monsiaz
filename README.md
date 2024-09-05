@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm Simon Azoulay!
 
-<!--
-**monsiaz/monsiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Head of SEO at Infonet.fr | Investor | Technical SEO Specialist**
 
-Here are some ideas to get you started:
+## About Me
+I'm a seasoned Head of SEO with a strong track record in driving organic growth for major platforms. My journey spans over a decade, from managing SEO at Superprof to leading strategies at Infonet.fr, where I've scaled traffic from 100K to 25M visits monthly. With a passion for data-driven decision-making and a knack for technical optimizations, I’ve built and led cross-functional teams to achieve some of the fastest growth rates in the industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do Best
+- **SEO Strategy & Execution**: From keyword research and content optimization to technical audits and performance tuning.
+- **Team Leadership**: Leading diverse teams of SEO managers, developers, and content strategists across multiple markets and languages.
+- **Technical SEO & Tools**: Creating custom SEO tools for monitoring, analytics, and optimization using Python, SQL, and various APIs.
+- **Data-Driven Decision Making**: Expertise in analytics platforms like Google Analytics, Search Console, Data Studio, and custom dashboards for actionable insights.
+
+## 🛠️ Favorite Tools & Technologies
+- **Languages**: Python, SQL, JavaScript
+- **SEO Tools**: Screaming Frog, Ahrefs, SEMrush, Majestic, and SeObserver
+- **Web Performance**: Lighthouse, GTmetrix, and PageSpeed Insights
+- **Data Visualization & Monitoring**: Grafana, Google Data Studio, ELK, and more
+
+## 🚀 My Achievements
+- **Superprof**: Led the SEO strategy that grew traffic from 100K to 25M visits per month, recognized as one of the 20 fastest-growing companies in France by Les Echos.
+- **Infonet.fr**: Developed and scaled the SEO strategy from the ground up, integrating advanced technical SEO and data-driven insights to optimize content and structure.
+
+## 💡 Why I’m Here
+I’m passionate about sharing my knowledge, learning from the community, and collaborating on projects that merge data, technology, and SEO. I believe in open-source solutions, automation, and leveraging data to make impactful decisions.
+
+---
+
+**📫 Connect with Me:**
+- [LinkedIn](https://www.linkedin.com/in/simonazoulayseoparisbiarritz)
+- [Email](mailto:s.azoulay@graciamediaweb.com)
+- [Calendly](https://calendly.com/simon-azoulay-pro)
+
