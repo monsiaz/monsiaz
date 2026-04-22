@@ -1,59 +1,53 @@
-# Simon Azoulay
+# 👋 Hello, I'm Simon Azoulay!
 
-Head of SEO · Builder · Biarritz
-
----
-
-I run SEO strategy at [Infonet](https://www.infonet.fr) and build the tools I need when they don't exist yet.
-
-Most of what I ship is Python and TypeScript — pipelines that pull data, transform it, and push it somewhere useful. Some of it is client-facing. Most of it isn't.
+**Head of SEO at Infonet.fr | Builder | Technical SEO Specialist**
 
 ---
 
-## What I build
+## About Me
 
-**SEO automation**
-Scripts that audit, extract, and reformat at scale. Lighthouse CI pipelines, structured data generators, bulk redirect mappers, crawl diff tools. Stuff that used to take days.
+I'm a Head of SEO with a decade of track record in driving organic growth at scale — from Superprof to Infonet.fr, where I took traffic from 100K to 25M monthly visits.
 
-**LLM / content pipelines**
-Multilingual content generation with strict templates and quality gates. Post-processing layers that enforce tone, structure, and internal linking before anything goes live. Not vibe-coding — engineered pipelines.
-
-**Full-stack web**
-Static site generators in Python (custom SSG, not a framework). Edge middleware on Vercel. Serverless API functions. Cache-busting by MD5 hash. Back-offices with auth, role logic, and admin UIs built from scratch.
-
-**Financial data tools**
-Scripts that pull company financials from public sources, normalize inconsistent formats, and output structured datasets. Built for investment research workflows.
+Over time I stopped waiting for the right tool to exist and started building it myself. Today I spend as much time coding as I do doing SEO: Python pipelines, LLM integrations, full-stack web apps, financial data tools. I like things that are fast, clean, and actually ship.
 
 ---
 
-## Tech
+## 🔧 What I Do Best
 
-`Python` `TypeScript` `JavaScript` `Node.js`  
-`Vercel` `Cloudflare` `PostgreSQL` `REST APIs`  
-`Git` `Regex` `Shell`
-
----
-
-## Highlights
-
-- Built a full multilingual surf camp website — custom Python SSG, 9 languages, 300+ pages, Vercel Edge middleware, immutable asset caching, back-office with token auth
-- Automated Lighthouse audits → PDF export → Google Sheets pipeline
-- LLM content system with structured prompts, NLP post-processing, and internal link injection across 100+ articles
-- Financial data scraper and normalizer for listed companies (balance sheets, P&L, ratios)
-- PAA (People Also Ask) scraper and clustering tool for SEO content planning
+- **SEO Strategy & Execution** — keyword research, content architecture, technical audits, performance tuning at scale
+- **Building SEO tooling** — custom Python scripts for crawling, indexing automation, similarity detection, content scoring
+- **LLM & AI pipelines** — end-to-end content generation with GPT-4o, multilingual translation, model benchmarking
+- **Full-stack web** — custom static site generators, serverless APIs, back-office from scratch (auth, Postgres, Edge middleware)
+- **Financial data** — algorithmic trading bots, regulatory filings scrapers, automated financial analysis
+- **Team leadership** — SEO managers, developers, content strategists across multiple markets and languages
 
 ---
 
-## Repos
+## 🛠️ Stack
 
-A few public ones:
-
-- [`benchmark_lighthouse_pdf_ggsheet`](https://github.com/monsiaz/benchmark_lighthouse_pdf_ggsheet) — Lighthouse CI → PDF → Google Sheets
-- [`ContentCrafter`](https://github.com/monsiaz/ContentCrafter) — LLM content pipeline with NLP post-processing
-- [`PAA-NOTICES`](https://github.com/monsiaz/PAA-NOTICES) — People Also Ask scraper and clustering
-
-Most projects are private. The surf camp repo is the most complete public example of how I structure a real project end to end.
+- **Languages** — Python · TypeScript · JavaScript · SQL
+- **AI / NLP** — OpenAI API (GPT-4o, GPT-4.1, O4-Mini) · SBERT · Sentence Transformers
+- **Web** — Vanilla JS · Vercel (Edge Functions + Serverless) · Neon Postgres · GitHub Actions
+- **SEO tools** — Screaming Frog · Ahrefs · SEMrush · Majestic · SeObserver · Search Console API
+- **Data** — Google Analytics 4 · Pandas · Google Sheets API · Lighthouse · Grafana
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/simon-azoulay/) · [X](https://x.com/SimonAzoulayFr)
+## 🚀 Highlights
+
+- **Superprof** — Scaled SEO from 100K to 25M monthly visits. One of France's 20 fastest-growing companies (Les Échos).
+- **Infonet.fr** — Built the SEO strategy from scratch, integrating programmatic content, technical architecture, and data pipelines.
+- **Custom static site generator** — 9 000+ lines of Python, 350+ pages, 9 languages, JSON-LD structured data, multilingual hreflang clusters, immutable asset caching.
+- **LLM content pipelines** — production pipelines generating and translating articles at scale, with benchmark tooling comparing latest models.
+- **Financial tooling** — AMF insider-trade tracker (TypeScript), Binance trading bot, automated airline financial analysis.
+
+---
+
+## 💡 Why I'm Here
+
+I believe the best SEOs are the ones who can build. I'm here to share tools, explore what's possible with AI and data, and collaborate with people who like to ship things that work.
+
+---
+
+**📫 Connect:**
+[LinkedIn](https://www.linkedin.com/in/simonazoulayseoparisbiarritz) · [Email](mailto:s.azoulay@graciamediaweb.com) · [Calendly](https://calendly.com/simon-azoulay-pro)
