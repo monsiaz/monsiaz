@@ -8,7 +8,7 @@
 
 Head of SEO, builder, and end-to-end project lead. I drive SEO strategy and ship the tools to execute it.
 
-From keyword architecture to automation pipelines, from technical audits to full-stack web platforms — I own the full cycle. At Infonet.fr I scaled organic from 100K to 25M monthly visits. Before that, Superprof — one of France's 20 fastest-growing companies (Les Échos).
+From keyword architecture to automation pipelines, from technical audits to full-stack web platforms — I own the full cycle. At Superprof I scaled organic from 100K to 25M monthly visits. one of France's 20 fastest-growing companies (Les Échos).
 
 Over time I stopped waiting for the right tool to exist and started building it myself. I like things that are fast, clean, and actually ship.
 
