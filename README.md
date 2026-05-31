@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Simon Azoulay!
 
-**Head of SEO at Infonet.fr | Builder | 360 Project Lead**
+**Head of SEO | Builder | 360 Project Lead**
 
 ---
 
